@@ -1,3 +1,5 @@
+<<<<<<< HEAD
+
 # Restaurant Ordering App
 
 This is a React Native application for a restaurant ordering system. The app allows users to select a table, enter customer details, choose items from the menu, and generate a bill.
@@ -56,4 +58,8 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+# This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+# Restaurant-app
+
+> > > > > > > origin/main
